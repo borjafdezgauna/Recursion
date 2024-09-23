@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{8279ED49-8189-4F07-9CB7-6A5FD8810FBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{00DDAC55-29F5-442B-9355-90A49CD27399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8279ED49-8189-4F07-9CB7-6A5FD8810FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8279ED49-8189-4F07-9CB7-6A5FD8810FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8279ED49-8189-4F07-9CB7-6A5FD8810FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8279ED49-8189-4F07-9CB7-6A5FD8810FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DDAC55-29F5-442B-9355-90A49CD27399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DDAC55-29F5-442B-9355-90A49CD27399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DDAC55-29F5-442B-9355-90A49CD27399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DDAC55-29F5-442B-9355-90A49CD27399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18C3B85-B7AC-4EE5-967F-BBF2565F5C8C}
+	EndGlobalSection
+EndGlobal
